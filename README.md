@@ -19,31 +19,31 @@ author – the name of the person who said the quote
 
 💡 Features:
 
-    Fetches quotes from a public API
+Fetches quotes from a public API
     
-    Displays both quote text and author name
+Displays both quote text and author name
     
-    Clean, minimal, and responsive UI
+Clean, minimal, and responsive UI
     
-    Built using pure HTML, CSS, and JavaScript
+Built using pure HTML, CSS, and JavaScript
   
-    One-click quote refresh functionality
+One-click quote refresh functionality
 
 🚀 Technologies Used:
 
-    HTML5 – for the page structure
+HTML5 – for the page structure
     
-    CSS3 – for styling and responsiveness
+CSS3 – for styling and responsiveness
     
-    JavaScript (ES6) – for DOM manipulation and API handling
+JavaScript (ES6) – for DOM manipulation and API handling
 
-    Fetch API – to get random quotes from the API
+Fetch API – to get random quotes from the API
 
 🛠 How to Run:
 
-    Clone the repository or download the ZIP
+Clone the repository or download the ZIP
     
-    Open index.html in any modern browser
+Open index.html in any modern browser
     
-    Click the "Get Quote" button to generate a random quote
+Click the "Get Quote" button to generate a random quote
 
